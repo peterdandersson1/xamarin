@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Labb2\Labb2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AndyII" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb2\ViewEntryActivity.cs">
+    <Files>
+      <File FileName="c:\Users\ITHS\Documents\Visual Studio 2013\Projects\Labb_2\Labb2\EntryActivity.cs" Line="3" Column="3" />
+      <File FileName="Labb2\ViewEntryActivity.cs" Line="39" Column="39" />
+      <File FileName="Labb2\Model\Account.cs" Line="10" Column="10" />
+      <File FileName="Labb2\ListViewAdapter.cs" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Labb2 MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

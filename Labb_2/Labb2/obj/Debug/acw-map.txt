@@ -1,0 +1,6 @@
+Labb2.AllEntriesActivity;labb2.AllEntriesActivity
+Labb2.EntryActivity;labb2.EntryActivity
+Labb2.ListViewAdapter;labb2.ListViewAdapter
+Labb2.MainActivity;labb2.MainActivity
+Labb2.ReportActivity;labb2.ReportActivity
+Labb2.ViewEntryActivity;labb2.ViewEntryActivity

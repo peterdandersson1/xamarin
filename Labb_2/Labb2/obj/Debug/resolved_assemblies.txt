@@ -1,0 +1,2 @@
+C:\Users\ITHS\Documents\Visual Studio 2013\Projects\Labb_2\Labb2\bin\Debug\Labb2.dll
+C:\Users\ITHS\Documents\Visual Studio 2013\Projects\Labb_2\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll
